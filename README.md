@@ -1,2 +1,1 @@
-# extractXLSX
-Daten aus Excel-Dokument extrahieren und in SQLite3 ablegen
+If you can avoid using its Perl companion (vid. CheckImport repository), try the Python version. It's usually more than 200 times as fast...
